@@ -24,7 +24,7 @@ let result = 0;
 console.log("[Question #2]: ", result);
 
 /**
- * Question 3
+ * Question 3 hola
  * Using an if statement, check if initialValue is greater than 5. If true, set result to initialValue times 2.
  */
 
