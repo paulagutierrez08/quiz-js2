@@ -214,5 +214,3 @@ console.log("[Question # 24]: ", userData);
   ? (result = result + userData.score)
   : "false";
 console.log("[Question # 25]: ", result);
-
-// hello
