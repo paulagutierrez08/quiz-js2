@@ -141,7 +141,11 @@ You can now create a new branch and start working!
 ```
 git checkout -b name-of-branch
 ```
+
 # quiz-js2
+
 # quiz-js2
+
 # quiz-js2
+
 # quiz-js2
